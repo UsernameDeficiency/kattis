@@ -1,4 +1,31 @@
-# Input: The input contains an integer N (1≤N≤10000000), the number of stones.
-# Output: Output the winner, “Alice” (odd) or “Bob” (even), on a line.
-import sys
-print("Bob") if int(sys.stdin.readline()) % 2 == 0 else print("Alice")
+https://open.kattis.com/problems/pot 1.3
+https://open.kattis.com/problems/spavanac 1.3
+https://open.kattis.com/problems/reversebinary 1.4
+https://open.kattis.com/problems/areal 1.6
+https://open.kattis.com/problems/dicegame 1.6
+https://open.kattis.com/problems/modulo 1.6
+https://open.kattis.com/problems/oddgnome 1.6
+https://open.kattis.com/problems/onechicken 1.6
+https://open.kattis.com/problems/quickbrownfox 1.6
+https://open.kattis.com/problems/abc 1.7
+https://open.kattis.com/problems/pizza2 1.7
+https://open.kattis.com/problems/statistics 1.7
+https://open.kattis.com/problems/bookingaroom 1.7
+https://open.kattis.com/problems/aboveaverage 1.9
+https://open.kattis.com/problems/flexible 1.9
+https://open.kattis.com/problems/plantingtrees 1.9
+https://open.kattis.com/problems/akcija 2.1
+https://open.kattis.com/problems/babelfish 2.1
+https://open.kattis.com/problems/blackfriday 2.2
+https://open.kattis.com/problems/busnumbers 2.2
+https://open.kattis.com/problems/sortofsorting 2.2
+https://open.kattis.com/problems/backspace 2.7
+https://open.kattis.com/problems/pivot 3.0
+https://open.kattis.com/problems/phonelist 3.7
+https://open.kattis.com/problems/wheresmyinternet 4.1
+https://open.kattis.com/problems/cd 4.4
+https://open.kattis.com/problems/unionfind 4.9
+
+https://open.kattis.com/problems/faktor
+https://open.kattis.com/problems/speedlimit
+https://open.kattis.com/problems/hissingmicrophone
